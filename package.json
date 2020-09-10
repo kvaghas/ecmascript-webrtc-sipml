@@ -1,5 +1,5 @@
 {
-  "_from": "ecmascript-webrtc-sipml",
+  "_from": "ecmascript-webrtc-sipml-2",
   "_inBundle": false,
   "_integrity": "sha512-iDgMKMy6AnHAdfort0PV5l8HIgNdEV7cBOvkwepsxgX9/5AHSuIbM+MDKm8CxNkaLu9uOlUC9nfs8XB5fZNzOw==",
   "_location": "/ecmascript-webrtc-sipml",
@@ -44,5 +44,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.11"
+  "version": "1.0.0"
 }
